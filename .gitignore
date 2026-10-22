@@ -1,4 +1,3 @@
 build/
-results/
 *.o
 .DS_Store
